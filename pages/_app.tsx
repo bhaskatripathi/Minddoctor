@@ -6,7 +6,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>OpenAI ChatGPT + NextJS</title>
+        <title>MindDoctor</title>
         <meta charSet="utf-8" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <link rel="icon" href="/openai.svg" />
