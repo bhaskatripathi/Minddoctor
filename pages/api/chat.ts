@@ -37,7 +37,7 @@ export default async function handler(req: NextRequest) {
     model: "text-davinci-003",
     prompt: defaultPrompt,
     temperature: 0.7,
-    max_tokens: 200,
+    max_tokens: 250,
     top_p: 1,
     frequency_penalty: 0,
     presence_penalty: 0,
